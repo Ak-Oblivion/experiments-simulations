@@ -1,5 +1,5 @@
 # experiments-simulations
-Research and reports
+Research and reports 
  
 1. Reflection on Betting Strategy Simulation:  
    
