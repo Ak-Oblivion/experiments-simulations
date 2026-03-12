@@ -1,7 +1,7 @@
 # experiments-simulations 
 Research and reports 
  
-1. Reflection on Betting Strategy Simulation:   
+1. Reflection on Betting Strategy Simulation:    
     
   Through this experiment, I explored several betting strategies, including Flat Betting, Stop-Loss, Random Betting, and Martingale, and observed how they perform under repeated   trials. The exercise taught me several key lessons about decision-making, risk, and strategy design:
   
